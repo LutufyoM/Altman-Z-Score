@@ -1,4 +1,4 @@
-# Altman-Z-Score
+# Altman-Z-Score -- S&P500
 Altman Z-Score less than 1.81 == Distress Zones.
 
 Altman Z-Score between 1.81 & 2.99 == Grey Zones.
