@@ -10,7 +10,7 @@ Altman Z-Score greater than 2.99 == Safe Zones.
 # ----------------------------------------------------------------
 ![Communication Services](https://github.com/LutufyoM/Altman-Z-Score/blob/master/Figures/Communication%20Services.png)
 # ----------------------------------------------------------------
-![Healthcare](https://github.com/LutufyoM/Altman-Z-Score/blob/master/Figures/Healthcare.png)
+![Health Care](https://github.com/LutufyoM/Altman-Z-Score/blob/master/Figures/Health%20Care.png)
 # ----------------------------------------------------------------
 ![Industrials](https://github.com/LutufyoM/Altman-Z-Score/blob/master/Figures/Industrials.png)
 # ----------------------------------------------------------------
