@@ -20,8 +20,8 @@ class _Score():
         
         for idx, item in enumerate(json.dumps(df).split('{"raw": ')):
             if "fmt" in item:
-                p = item.split(', "fmt":', maxsplit=1)
-                X += p[0] + p[1].split('}', maxsplit=1)[1]
+                y = item.split(', "fmt":', maxsplit=1)
+                X += y[0] + y[1].split('}', maxsplit=1)[1]
             else:
                 X += item  
         df = json.loads(X)
